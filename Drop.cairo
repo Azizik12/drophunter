@@ -5,7 +5,7 @@ mod HelloStarknet {
 // Luffy will be the pirate king
 // I ll we get Starknet drop
 // STRK to the moon
-    #[event]
+    #[event] // Zenitsu
     fn Hello(from: ContractAddress, value: felt252) {}
 
 
