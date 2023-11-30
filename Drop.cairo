@@ -7,7 +7,7 @@ mod HelloStarknet {
 // STRK to the moon
     #[event] // Zenitsu
     fn Hello(from: ContractAddress, value: felt252) {}
-
+// Shigaraki is my love
 
     #[external]
     fn Say_Hello(message: felt252) {
