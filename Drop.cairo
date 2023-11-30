@@ -4,7 +4,7 @@ mod HelloStarknet {
     use starknet::ContractAddress;
 // Luffy will be the pirate king
 // I ll we get Starknet drop
-
+// STRK to the moon
     #[event]
     fn Hello(from: ContractAddress, value: felt252) {}
 
