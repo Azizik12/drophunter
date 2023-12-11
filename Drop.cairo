@@ -2,7 +2,7 @@
 mod HelloStarknet {
     use starknet::get_caller_address;
     use starknet::ContractAddress;
-// Luffy will be the pirate king
+// Luffy will be the pirate king // zaebali
 // I ll get Starknet drop
 // STRK to the moon // Shikamaru
     #[event] // Zenitsu
