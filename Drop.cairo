@@ -7,7 +7,7 @@ mod HelloStarknet {
 // STRK to the moon // Shikamaru
     #[event] // Zenitsu
     fn Hello(from: ContractAddress, value: felt252) {}
-// drop soon
+// drop soon // stark one love
 // Shigaraki is my love
 // i love anime // ya zaebalsya // vladusya ya tebya lyublyu
 // waiting for STRK
