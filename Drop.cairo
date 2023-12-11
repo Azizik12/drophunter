@@ -8,7 +8,7 @@ mod HelloStarknet {
     #[event] // Zenitsu
     fn Hello(from: ContractAddress, value: felt252) {}
 // drop soon // stark one love
-// Shigaraki is my love
+// Shigaraki is my love // kak ya ustal
 // i love anime // ya zaebalsya // vladusya ya tebya lyublyu
 // waiting for STRK
     #[external] // i lovr cairo
